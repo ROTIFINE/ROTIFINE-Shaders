@@ -1,0 +1,2 @@
+Any Shaders that have obfuscated code or code that can give them admin or with byte code will be deleted due to safty
+Shaders with innapropreate words will also be deleted
